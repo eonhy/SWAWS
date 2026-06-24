@@ -1,0 +1,5 @@
+[SERVER]
+- 사용자 이름: admin
+- SSH key: /Users/hasom/Desktop/AWS/SSHKey.pem
+- IP: 52.78.56.158
+- 웹 폴더: /var/www/html
